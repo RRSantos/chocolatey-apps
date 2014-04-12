@@ -28,3 +28,4 @@ cinst windirstat
 cinst linqpad4
 cinst recuva
 cinst HxD
+cinst greenshot 
